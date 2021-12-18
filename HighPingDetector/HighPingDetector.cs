@@ -9,5 +9,6 @@ namespace HighPingDetector
     class HighPingDetector
     {
 
+
     }
 }
